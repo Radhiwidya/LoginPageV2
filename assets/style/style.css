@@ -1,0 +1,50 @@
+body {
+    padding: 80px;
+    background-color:white;
+}
+.row {
+    height: 420px; 
+    box-shadow: 20px 20px 20px 5px rgba(0, 0, 0, 0.4);
+}
+.content {
+    color:white;
+    padding:20px;
+    text-align:center;
+    align-items:center;
+    justify-content:center;
+}
+.login {
+    background-color:#e0e0e0;
+}
+.login-box {
+    padding:20px;
+    transform: translate( 0%, 10%);
+}
+.register-box {
+    transform: translate( 0%, 45%);
+}
+.register {
+    padding:20px;
+    transform: translate( 0%, 20%);
+}
+.input-group {
+    text-align:center;
+    width:65%;
+}
+.form-control {
+    width: 10px; 
+    height:40px;
+}
+.judul {
+    text-align: center;
+    padding:10px;
+}
+.social-media {
+    width: 23%;
+    border-radius: 20px;
+    font-size: 15px;
+}
+.wrap {
+    justify-content: center;
+    display: flex;
+}
